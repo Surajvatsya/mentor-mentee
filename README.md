@@ -33,7 +33,8 @@ Growing user bases and making partnerships is our goal. Releasing and app and co
 - MongoDB/Mongoose
 - React.js/Redux
 
-
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/68156079/179363053-1d837df5-5f96-49c1-a510-f11cb991be55.png">
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/68156079/179363131-37ef725a-71f1-448c-beec-06ce65f6bca9.png">
 <img width="936" alt="image" src="https://user-images.githubusercontent.com/68156079/179362666-0de18b9f-3360-43bd-a46b-b5ee09c4e508.png">
 <img width="930" alt="image" src="https://user-images.githubusercontent.com/68156079/179362675-75aefd72-ef8d-42c7-9371-5ed9406d6014.png">
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/68156079/179362699-20664b6c-d902-4bb7-81e5-749c5dab61f2.png">
