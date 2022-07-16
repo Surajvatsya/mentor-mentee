@@ -6,3 +6,6 @@ const InvitationSchema = mongoose.Schema({
   flaggedId: mongoose.Schema.ObjectId,
 });
 module.exports = mongoose.model('Invitation', InvitationSchema);
+     
+
+//exported
