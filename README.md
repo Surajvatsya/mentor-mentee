@@ -1,4 +1,3 @@
-## [Demo Video](https://www.youtube.com/watch?v=x1yHCk5JwOA)
 
 ![Demo Gif](https://s1.gifyu.com/images/Menter.gif)
 
